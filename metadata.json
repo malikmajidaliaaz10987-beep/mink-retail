@@ -1,0 +1,6 @@
+{
+  "name": "Mink Retail",
+  "description": "Discover timeless everyday luxury with Mink Retail. Handcrafted footwear, resort slides, elevated fashion, and lifestyle essentials with fast US shipping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
